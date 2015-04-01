@@ -21,12 +21,14 @@
         <Button
             android:id="@+id/pl_txtbtnCancel"
             android:layout_width="wrap_content"
-            android:layout_height="20dip"
+            android:layout_height="30dip"
             android:textColor="#ffffff"
             android:text="@string/txt_Close"
             android:textSize="14sp"
             android:layout_centerVertical="true"
             android:layout_marginLeft="15dip"
+            android:paddingTop="5dip"
+            android:paddingBottom="5dip"
             android:background="@null"/>        
         
         
