@@ -21,14 +21,13 @@
         <Button
             android:id="@+id/pl_txtbtnCancel"
             android:layout_width="wrap_content"
-            android:layout_height="30dip"
+            android:layout_height="20dip"
             android:textColor="#ffffff"
-            android:text="@string/txt_Close"
+            android:text="@string/txt_Exit"
             android:textSize="14sp"
             android:layout_centerVertical="true"
-            android:layout_marginLeft="15dip"
-            android:paddingTop="5dip"
-            android:paddingBottom="5dip"
+            android:layout_marginRight="15dip"
+            android:layout_alignParentRight="true"
             android:background="@null"/>        
         
         
@@ -62,7 +61,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:scaleType="fitXY"
-            android:text="@string/txt_Done"
+            android:text="@string/txt_Home"
             android:textSize="14sp"
             android:textColor="#ffffff"
             android:layout_centerVertical="true"
