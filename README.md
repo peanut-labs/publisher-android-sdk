@@ -21,7 +21,7 @@ Check out <a href="http://peanut-labs.github.io/publisher-doc/" target="_blank">
 v0.2
 - Changed "Done" button to "Home" button and replaced into right side
 - Replaced "X" button to "Exit" and moved it to the right side
-- After done with survey "Done" button lead back to the application, changed it into lead back to rewards center
+- After done with survey "Done" button led back to the application, changed it into lead back to rewards center
 - Supports custom url parameters
 - Supports date of birth url parameter
 - Supports gender url parameter
