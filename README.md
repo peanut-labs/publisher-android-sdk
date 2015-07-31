@@ -26,3 +26,33 @@ v0.2
 - Supports date of birth url parameter
 - Supports gender url parameter
 - Automatically sets locale for rewards center depends on device locale
+
+*	Open Rewards Center.
+
+``` Java
+Open Rewards Center with User Id
+
+PeanutLabsManager pm = PeanutLabsManager.getInstance();
+pm.setUserId("EndUserId-AppId-AppKey");
+pm.openRewardsCenter(MainActivity.this);
+
+```
+
+* Add dob and gender as a parameter
+
+``` Java
+Setting gender // 1(male) or 2(female)
+pm.setDob("12-12-1989");
+
+Setting Dob // MM-DD-YYYY
+pm.setGender("1");
+
+```
+
+``` Java
+First parameter should be var_key and second parameter should be var_val
+
+pm.addCustomParameters("firstName", "bilguun");
+pm.addCustomParameters("lastName", "Oyunchimeg");
+
+```
