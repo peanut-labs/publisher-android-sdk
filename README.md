@@ -18,6 +18,13 @@ Check out <a href="http://peanut-labs.github.io/publisher-doc/" target="_blank">
 
 #Changelog
 
+v0.3
+- Updated iOS SDK bar behavior
+1. Hide sdk bar for profiler modal
+2. Hide sdk bar for pre-screener modal
+3. Hide sdk bar for survey landing page
+4. 'Back' button for main reward center page sdk bar update
+
 v0.2
 - Changed "Done" button to "Home" button and replaced into right side
 - Replaced "X" button to "Exit" and moved it to the right side
