@@ -19,7 +19,7 @@ Check out <a href="http://peanut-labs.github.io/publisher-doc/" target="_blank">
 #Changelog
 
 v0.3
-- Updated iOS SDK bar behavior
+- Updated Android SDK bar behavior
   1. Hide sdk bar for profiler modal
   2. Hide sdk bar for pre-screener modal
   3. Hide sdk bar for survey landing page
