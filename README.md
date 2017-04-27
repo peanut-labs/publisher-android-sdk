@@ -18,6 +18,9 @@ Check out <a href="http://peanut-labs.github.io/publisher-doc/" target="_blank">
 
 #Changelog
 
+v0.4
+- Add program id support into ios SDK
+
 v0.3
 - Updated Android SDK bar behavior
   1. Hide sdk bar for profiler modal
@@ -62,4 +65,10 @@ First parameter should be var_key and second parameter should be var_val
 pm.addCustomParameters("firstName", "bilguun");
 pm.addCustomParameters("lastName", "Oyunchimeg");
 
+```
+
+``` Java
+Setting program id // your program id name
+
+pm.setProgramId("example_program_id");
 ```
