@@ -19,7 +19,7 @@ Check out <a href="http://peanut-labs.github.io/publisher-doc/" target="_blank">
 #Changelog
 
 v0.4
-- Add program id support into ios SDK
+- Add program id support into android SDK
 
 v0.3
 - Updated Android SDK bar behavior
